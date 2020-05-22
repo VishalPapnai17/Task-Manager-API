@@ -1,0 +1,1 @@
+ A pure backend based project created in NodeJS to learn insights of web development(backend). Contains a User-Task relationship model which includes creation,reading,update and deletion of user and same goes for task.
